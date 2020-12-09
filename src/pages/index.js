@@ -12,6 +12,7 @@ const IndexPage = () => {
   console.log(collections);
   return (
     <Layout>
+      <SEO description="MINDSTIR Store Home" title="Home" />
       <HomepageCollectionsGrid
         collections={collections.filter(
           collection => collection.title !== 'Featured Products'

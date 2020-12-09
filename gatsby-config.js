@@ -4,9 +4,9 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Shopify Starter`,
-    description: `Gatsby & Shopify Starter for the WebDevEducation course.`,
-    author: `@tomphill`,
+    title: `MIND STIR STORE`,
+    description: `I'm MINDSTIR`,
+    author: `@mindstir`,
   },
   plugins: [
     `gatsby-plugin-styled-components`,
